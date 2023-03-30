@@ -71,14 +71,7 @@
         {
           "DatabaseId": "a0c32f0d-640c-4729-b5fc-347cfdeb9a32",
           "DatabaseAliasName": "demo2-dev1",
-          "StaticDataObjects": [
-            {
-              "UniqueIndex": "SYS_C007915",
-              "schema": "",
-              "name": "ANIMALS",
-              "type": "TABLE"
-            }
-          ]
+          "StaticDataObjects": []
         }
       ]
     }
