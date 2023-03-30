@@ -89,6 +89,24 @@
               "schema": "",
               "name": "PERSONS",
               "type": "TABLE"
+            },
+            {
+              "UniqueIndex": "SYS_C007915",
+              "schema": "",
+              "name": "ANIMALS",
+              "type": "TABLE"
+            },
+            {
+              "UniqueIndex": "SYS_C007918",
+              "schema": "",
+              "name": "EMPLOYEES",
+              "type": "TABLE"
+            },
+            {
+              "UniqueIndex": "SYS_C007912",
+              "schema": "",
+              "name": "HUMANS",
+              "type": "TABLE"
             }
           ]
         }
